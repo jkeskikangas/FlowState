@@ -127,3 +127,10 @@ venv.bak/
 steam_appid.txt
 #!SteamworksPy.dll
 #!steam_api.dll
+
+# sensitive keys/certs
+*.key
+*.pem
+
+# local build outputs
+third_party/
